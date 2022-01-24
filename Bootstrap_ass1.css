@@ -9,7 +9,7 @@
 @media all and (max-width:768px) {
     .carousel-item{height: 35vh; background: no-repeat scroll center scroll; -webkit-background-size: cover; background-size: cover;}    
 }
-@media all and (max-width:480px) {
+@media all and (max-width:500px) {
     .carousel-item{height: 30vh; background: no-repeat scroll center scroll; background-size: cover;}  
     .carousel-caption{display: none;}  
 }

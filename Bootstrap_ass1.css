@@ -35,7 +35,7 @@
 }
 @media all and (max-width:900px){ .in-text{height: 550px !important;}}
 @media all and (max-width:731px) {
-    .carousel-item{height: 30vh; background: no-repeat scroll center scroll; -webkit-background-size: cover; background-size: cover;}
+    .carousel-item{height: 40vh; background: no-repeat scroll center scroll; -webkit-background-size: cover; background-size: cover;}
 }
     
 @media all and (max-width:730px) {

@@ -33,7 +33,7 @@
     .text-carousel2{display:block !important;}
     .text-carousel{display: none;} 
 }
-@media all and (max-width:900px){ .in-text{height: 500px !important;}}
+@media all and (max-width:900px){ .in-text{height: 550px !important;}}
 @media all and (max-width:731px) {
     .carousel-item{height: 30vh; background: no-repeat scroll center scroll; -webkit-background-size: cover; background-size: cover;}
 }

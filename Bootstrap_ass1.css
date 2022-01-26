@@ -34,10 +34,10 @@
     .text-carousel{display: none;} 
 }
 @media all and (max-width:900px){  .carousel-item{height: 70vh; background: no-repeat scroll center scroll; -webkit-background-size: cover; background-size: cover;}.in-text{height: 500px !important;}.in-text{height: 550px !important;}}
-@media all and (max-width:731px) {
+@media all and (max-width:770px) {
     .carousel-item{height: 65vh; background: no-repeat scroll center scroll; -webkit-background-size: cover; background-size: cover;}.in-text{height: 500px !important;}
 }
-@media all and (max-width:730px) {
+@media all and (max-width:530px) {
     .carousel-item{height: 40vh; background: no-repeat scroll center scroll; background-size: cover;}  
     .text-carousel{display: none;}
     .text-carousel2{display:none !important;}
